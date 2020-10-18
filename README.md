@@ -2,7 +2,7 @@
 
 I'm currently a software engineer [@grofers](https://grofers.com/) based in India. 
 
-[![Twitter Badge](https://img.shields.io/badge/-@HarshitPrasad8-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HarshitPrasad8)](https://twitter.com/HarshitPrasad8) [![Linkedin Badge](https://img.shields.io/badge/-harshit98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-prasad/)](https://www.linkedin.com/in/harshit-prasad/) [![HitCount](http://hits.dwyl.com/harshit98/harshit98.svg)](http://hits.dwyl.com/harshit98/harshit98)
+[![Twitter Badge](https://img.shields.io/badge/-@HarshitPrasad8-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HarshitPrasad8)](https://twitter.com/HarshitPrasad8) [![Linkedin Badge](https://img.shields.io/badge/-harshit--prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-prasad/)](https://www.linkedin.com/in/harshit-prasad/) [![HitCount](http://hits.dwyl.com/harshit98/harshit98.svg)](http://hits.dwyl.com/harshit98/harshit98)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
@@ -12,7 +12,7 @@ I'm currently a software engineer [@grofers](https://grofers.com/) based in Indi
 
 - Exploring and learning about Distributed Systems and a little bit of Data Engineering as well.
 
-- Most of my projects are available on [GitHub](). If you like them, please star them!
+- Most of my projects are available on GitHub. If you like them, please star them!
 
 - Apart from tech blogs, I also write about travel and conference talks on my website. I'm maintaining a photoblog too! All these things are happening on my website! Go! Check them out!
 
