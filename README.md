@@ -8,7 +8,7 @@ I'm currently a software engineer [@grofers](https://grofers.com/) based in Indi
 
 ## Quick Facts ⚡
 
-- Currently working on Ad-Platform services at my organization.
+- Currently learning and working on Ad-Platform services at my organization.
 
 - Exploring and learning about Distributed Systems and a little bit of Data Engineering as well.
 
