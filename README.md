@@ -2,7 +2,8 @@
 
 I'm currently a software engineer [@grofers](https://grofers.com/) based in India. 
 
-[![Twitter Badge](https://img.shields.io/badge/-@HarshitPrasad8-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HarshitPrasad8)](https://twitter.com/HarshitPrasad8) [![Linkedin Badge](https://img.shields.io/badge/-harshit--prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-prasad/)](https://www.linkedin.com/in/harshit-prasad/) [![HitCount](http://hits.dwyl.com/harshit98/harshit98.svg)](http://hits.dwyl.com/harshit98/harshit98)
+[![Twitter Badge](https://img.shields.io/badge/-@HarshitPrasad8-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HarshitPrasad8)](https://twitter.com/HarshitPrasad8) [![Linkedin Badge](https://img.shields.io/badge/-harshit--prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-prasad/)](https://www.linkedin.com/in/harshit-prasad/) ![](https://komarev.com/ghpvc/?username=harshit98&color=blue&style=flat-square&label=Profile--Hits)
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
