@@ -1,6 +1,6 @@
 # Hi, I'm Harshit 👋
 
-I'm currently a software engineer [@grofers](https://grofers.com/) based in India. 
+I'm currently working as backend software engineer [@grofers](https://grofers.com/) based in India. 
 
 [![Twitter Badge](https://img.shields.io/badge/-@HarshitPrasad8-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HarshitPrasad8)](https://twitter.com/HarshitPrasad8) [![Linkedin Badge](https://img.shields.io/badge/-harshit--prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-prasad/)](https://www.linkedin.com/in/harshit-prasad/) ![](https://komarev.com/ghpvc/?username=harshit98&color=blue&style=flat-square&label=Profile--Hits)
 
