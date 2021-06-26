@@ -2,7 +2,7 @@
 
 I'm currently working as backend software engineer [@grofers](https://grofers.com/) based in India. 
 
-[![Twitter Badge](https://img.shields.io/badge/-@HarshitPrasad8-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HarshitPrasad8)](https://twitter.com/HarshitPrasad8) [![Linkedin Badge](https://img.shields.io/badge/-harshit--prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-prasad/)](https://www.linkedin.com/in/harshit-prasad/) ![](https://komarev.com/ghpvc/?username=harshit98&color=blue&style=flat-square&label=Profile--Hits)
+[![Twitter Badge](https://img.shields.io/badge/-@HarshitPrasad8-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HarshitPrasad8)](https://twitter.com/HarshitPrasad8) [![Linkedin Badge](https://img.shields.io/badge/-harshit--prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-prasad/)](https://www.linkedin.com/in/harshit-prasad/) ![](https://komarev.com/ghpvc/?username=harshit98&color=blue&style=flat-square&label=total--hits)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshit98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=daily-hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
