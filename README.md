@@ -9,13 +9,13 @@ I'm currently working as backend software engineer [@grofers](https://grofers.co
 
 ## Quick Facts ⚡
 
-- Currently learning and working on Ad-Platform services at my organization.
+- Currently learning and working on Search Systems at @grofers.
 
-- Exploring and learning about Distributed Systems and a little bit of Data Engineering as well.
+- Exploring and learning about Distributed Systems, Data Engineering and Search.
 
 - Most of my projects are available on GitHub. If you like them, please star them!
 
-- Apart from tech blogs, I also write about travel and conference talks on my website. I'm maintaining a photoblog too! All these things are happening on my website! Go! Check them out!
+- Apart from tech blogs, I also write about travel and conference talks on my website. All these things are happening on my website! Go! Check them out!
 
 - Feel free to ping me on social media or email, where you feel most comfortable to connect. You can find my email on my website.
 
