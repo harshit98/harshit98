@@ -9,7 +9,7 @@ I'm currently working as backend software engineer [@grofers](https://grofers.co
 
 ## Quick Facts ⚡
 
-- Currently learning and working on Search Systems at @grofers.
+- Currently learning and working on Search Systems at [@grofers](https://grofers.com/).
 
 - Exploring and learning about Distributed Systems, Data Engineering and Search.
 
